@@ -1,4 +1,4 @@
-OS System Call Analyzer - Bright Animated Edition
+OS System Call Analyzer
 
 Files: app.py, system_calls.c, requirements.txt
 
